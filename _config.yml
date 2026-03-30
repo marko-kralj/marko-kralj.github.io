@@ -13,10 +13,10 @@ title                    : "Marko Kralj / Surfaces, Interfaces & 2D Materials Re
 title_separator          : "-"
 name                     : &name "Marko Kralj"
 description              : &description "Surfaces, Interfaces & 2D Materials Research @ IF, Zagreb - Web home of Marko Kralj"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://marko-kralj.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "marko-kralj/marko-kralj.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,21 +26,20 @@ author:
   avatar           : "profile.png"
   name             : "Marko Kralj"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Condensed matter physicist working on surfaces, interfaces and 2D materials."
+  location         : "Zagreb, Croatia"
+  employer         : "Institute of Physics, Zagreb"
+  email            : "mkralj@ifs.hr" 
 
   # Academic websites
-  academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=O80SUwcAAAAJ&hl=hr"
   orcid            : "https://orcid.org/0000-0002-9786-3130"
   webofscience     : "https://www.webofscience.com/wos/author/record/A-8232-2008"
-  ssrn             : # URL
   researchgate     : "https://www.researchgate.net/profile/Marko-Kralj"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7004649069"
   croris           : "https://www.croris.hr/osobe/profil/4523"
+
+  github           : "marko-kralj"
 
 
   # Repositories and software development
